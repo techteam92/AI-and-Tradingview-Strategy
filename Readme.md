@@ -136,7 +136,7 @@ Add demo images, GIFs, or UI preview screenshots here.
 | | |
 |---|---|
 | **Email** | 100terry001@gmail.com |
-| **GitHub** | [@yourgithub](https://github.com/techteam92) |
+| **GitHub** | [https://github.com/techteam92](https://github.com/techteam92) |
 | **Whatsapp** | +1 (343) 512-7592 |
 
 ---
@@ -150,3 +150,4 @@ Add demo images, GIFs, or UI preview screenshots here.
 ---
 
 *Last updated: May 2025*
+
