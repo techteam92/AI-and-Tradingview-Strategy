@@ -1,4 +1,4 @@
-# 🧭 Kraken API Trading & Trend Prediction [Project ID: P-12334]
+# 🧭 Kraken API Trading & Trend Prediction
 
 A FastAPI-based service that integrates with the Kraken API for balance checks and order execution, and uses AI-driven trend prediction (XGBoost, seasonal decomposition, divergence detection) to guide buy/sell decisions.
 
@@ -150,4 +150,5 @@ Add demo images, GIFs, or UI preview screenshots here.
 ---
 
 *Last updated: May 2025*
+
 
